@@ -1,9 +1,9 @@
 -i https://pypi.org/simple
 --extra-index-url https://www.piwheels.org/simple
 bleak==0.22.2
-certifi==2024.7.4
+certifi==2024.8.30
 charset-normalizer==3.3.2
-dbus-fast==2.23.0
+dbus-fast==2.24.0
 idna==3.8
 requests==2.32.3
 urllib3==2.2.2

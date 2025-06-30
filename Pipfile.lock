@@ -23,12 +23,12 @@
     "default": {
         "bleak": {
             "hashes": [
-                "sha256:1e62a9f5e0c184826e6c906e341d8aca53793e4596eeaf4e0b191e7aca5c461c",
-                "sha256:3149c3c19657e457727aa53d9d6aeb89658495822cd240afd8aeca4dd09c045c"
+                "sha256:b319adbedbe900426389024472fba929ec719da187089c98710f9d0aa05a8e6a",
+                "sha256:ce5e3c04b09f9b5e1df1c54f5f3fca12faec6141ba2ed0941656f825fffb885f"
             ],
             "index": "pypi",
-            "markers": "python_version < '3.14' and python_version >= '3.8'",
-            "version": "==0.22.3"
+            "markers": "python_version >= '3.9'",
+            "version": "==1.0.0"
         },
         "certifi": {
             "hashes": [

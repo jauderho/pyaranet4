@@ -2,7 +2,7 @@
 --extra-index-url https://www.piwheels.org/simple
 bleak==1.1.1
 certifi==2025.10.5
-charset-normalizer==3.4.3
+charset-normalizer==3.4.4
 dbus-fast==2.44.5
 idna==3.11
 requests==2.32.5
